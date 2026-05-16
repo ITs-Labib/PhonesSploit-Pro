@@ -797,7 +797,7 @@ Make sure all [required](#requirements) software is installed.
 Open a terminal and run the following commands:
 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/ITs-Labib/PhonesSploit-Pro.git
 ```
 ```
 cd PhoneSploit-Pro/
