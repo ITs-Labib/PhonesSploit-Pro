@@ -428,5 +428,3 @@ pkg install nmap
 
 Copyright © 2026 ITs-Labib (github.com/ITs-Labib)
 
-python-nmap==0.7.1
-rich>=14.0.0
